@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "image": "/images/team/member-1.png",
+        "name": "Jack Schenziwe",
+        "title": "Project Manager"
+    },{
+        "id": 2,
+        "image": "/images/team/member-2.png",
+        "name": "Lisa Smith",
+        "title": "UI/UX Designer"
+    },{
+        "id": 3,
+        "image": "/images/team/member-3.png",
+        "name": "Ben Jordan",
+        "title": "Digital Marketing Manager"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "title":"Web Design",
+        "level": "90%"
+    },{
+        "id": 2,
+        "title":"Logo Design",
+        "level": "60%"
+    },{
+        "id": 3,
+        "title":"After Effects",
+        "level": "50%"
+    },{
+        "id": 4,
+        "title":"Web App",
+        "level": "80%"
+    }
+]

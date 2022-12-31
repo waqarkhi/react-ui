@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "col": "4",
+        "title": "Email",
+        "content":"waqar.net.pk@gmail.com"
+    },{
+        "id": 2,
+        "col": "4",
+        "title": "Phone",
+        "content":"+92 346 247 1971"
+    },{
+        "id": 3,
+        "col": "4",
+        "title": "Address",
+        "content":"Karachi, Pakistan"
+    }
+]

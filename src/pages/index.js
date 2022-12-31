@@ -1,0 +1,6 @@
+export {default as Home} from './home/Home'
+export {default as About} from './about/About'
+export {default as Blog} from './blog/Blog'
+export {default as Portfolio} from './portfolio/Portfolio'
+export {default as NotFound} from './not-found/NotFound'
+export { default as Contact } from './contact/Contact'

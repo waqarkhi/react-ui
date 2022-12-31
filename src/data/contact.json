@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "col": "6",
+        "name": "full-name",
+        "type":"text",
+        "text":"Full Name"
+    },{
+        "id": 2,
+        "col": "6",
+        "name": "email",
+        "type":"email",
+        "text":"Email Address"
+    },{
+        "id": 3,
+        "col": "12",
+        "name": "message",
+        "type":"textarea",
+        "text":"Type message here."
+    },{
+        "id": 4,
+        "col": "6",
+        "name": "submit",
+        "type":"button",
+        "text":"Send"
+    }
+]

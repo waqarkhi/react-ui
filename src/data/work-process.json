@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "icon":"/images/icons/plan.png",
+        "title":"Research and Plan",
+        "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },{
+        "id":2,
+        "icon":"/images/icons/design.png",
+        "title":"Design and Develop",
+        "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },{
+        "id":3,
+        "icon":"/images/icons/print.png",
+        "title":"Deliver",
+        "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+]

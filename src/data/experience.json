@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "icon": "/images/experience/icon-1.png",
+        "duration":"Jan 2007 - Feb 2009",
+        "title": "Junior UX Designer",
+        "sub_title": "WEBEX"
+    },{
+        "id": 2,
+        "icon": "/images/experience/icon-2.png",
+        "duration":"Mar 2009 - Aug 2014",
+        "title": "UX & UI Designer",
+        "sub_title": "AUGMEDIX"
+    },{
+        "id": 3,
+        "icon": "/images/experience/icon-3.png",
+        "duration":"Sep 2014 - Present",
+        "title": "Senior UI Designer",
+        "sub_title": "THEMEFISHER"
+    }
+]

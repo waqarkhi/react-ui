@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "icon": "ti-palette icon mb-5 d-inline-block",
+        "title": "UI Design",
+        "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },{
+        "id": 2,
+        "icon": "ti-vector icon mb-5 d-inline-block",
+        "title": "UX Design",
+        "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },{
+        "id": 3,
+        "icon": "ti-panel icon mb-5 d-inline-block",
+        "title": "Interaction Design",
+        "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "year": "2006",
+        "course":"Marters in UX Design",
+        "institute": "Masassusets Institute of Technology"
+    },{
+        "id": 2,
+        "year": "2004",
+        "course":"Honours in Fine Arts",
+        "institute": "Harvard University"
+    },{
+        "id": 3,
+        "year": "2000",
+        "course":"Higher Secondary Certificat",
+        "institute": "Cardiff School"
+    },{
+        "id": 4,
+        "year": "1998",
+        "course":"Secondary School Certificate",
+        "institute": "Cardiff School"
+    }
+]
