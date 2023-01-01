@@ -28,10 +28,10 @@ const Testimonial = () => {
       </div>
       <img src="/images/backgrounds/map.png" alt="map" className="img-fluid bg-map" data-aos="fade-up"/>
       <img src="/images/illustrations/dots-group-v.png" alt="Background" className="img-fluid bg-shape-1" data-aos="fade-right" data-aos-delay="100" />
-      <img src="/images/illustrations/leaf-orange.png" alt="Background" className="img-fluid bg-shape-2" data-aos="fade-left" data-aos-delay="100" />
-      <img src="/images/illustrations/dots-group-sm.png" alt="Background" className="img-fluid bg-shape-3" data-aos="fade-up" data-aos-delay="100" />
-      <img src="/images/illustrations/leaf-pink-round.png" alt="Background" className="img-fluid bg-shape-4" data-aos="fade-right" data-aos-delay="100" />
-      <img src="/images/illustrations/leaf-cyan.png" alt="Background" className="img-fluid bg-shape-5" data-aos="fade-left" data-aos-delay="100" />
+      <img src="/images/illustrations/leaf-orange.png" alt="Background" className="img-fluid bg-shape-2" data-aos="fade-left" data-aos-delay="500" />
+      <img src="/images/illustrations/dots-group-sm.png" alt="Background" className="img-fluid bg-shape-3" data-aos="fade-up" data-aos-delay="300" />
+      <img src="/images/illustrations/leaf-pink-round.png" alt="Background" className="img-fluid bg-shape-4" data-aos="fade-right" data-aos-delay="600" />
+      <img src="/images/illustrations/leaf-cyan.png" alt="Background" className="img-fluid bg-shape-5" data-aos="fade-left" data-aos-delay="1000" />
     </section>
   )
 }

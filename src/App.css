@@ -823,3 +823,9 @@ blockquote {
 .filter-controls li.active {
   font-weight: bold;
 }
+
+div#root {
+  position:relative;
+  max-width:100%;
+  overflow:hidden;
+}

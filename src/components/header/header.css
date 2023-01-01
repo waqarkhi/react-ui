@@ -10,3 +10,18 @@
     background-color: #36197f;
     box-shadow: 0 0 60px -30px #fff;
 }
+
+.navigation .sign {
+    max-width: 150px;
+    filter: invert(1);
+}
+
+@media(max-width:768px) {
+    header.navigation.fixed-top {
+        padding: 0;
+    }
+    .navigation .navbar-nav {
+        background-color: #36197f;
+        color:#000;
+    }
+}

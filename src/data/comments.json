@@ -1,0 +1,25 @@
+[
+    {
+        "photo": "/images/user-1.jpg",
+        "id": 1,
+        "user":"Carole Marvin.",
+        "hours":2,
+        "text":"Ne erat velit invidunt his. Eum in dicta veniam interesset, harum fuisset te nam ea cu lupta definitionem.",
+        "replies": [
+            {
+                "photo": "/images/user-2.jpg",
+                "id": 3,
+                "user":"Jaquan Rolfson.",
+                "hours":1,
+                "text":"Ne erat velit invidunt his. Eum in dicta veniam interesset, harum fuisset te nam ea cu lupta definitionem."
+            }
+        ]
+        },{
+        "photo": "/images/user-3.jpg",
+        "id": 2,
+        "user":"Bruce Bernier.",
+        "hours":3,
+        "text":"Ne erat velit invidunt his. Eum in dicta veniam interesset, harum fuisset te nam ea cu lupta definitionem.",
+        "replies": []
+    }
+]

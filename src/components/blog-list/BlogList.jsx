@@ -1,8 +1,12 @@
 import './blog.css'
 import Title from '../base/Title'
 import { Link } from 'react-router-dom'
+import { useEffect } from 'react'
 
 const BlogList = ({title,blogs}) => {
+  useEffect(() => {
+    window.scrollTo(0,0)
+  },[])
   return (
     <section className="section">
       <div className="container">
@@ -17,7 +21,7 @@ const BlogList = ({title,blogs}) => {
                         <a className="text-dark" href={item.link}>{item.title}</a>
                     </h4>
                     <p className="cars-text">{item.detail}</p>
-                    <Link to={item.link} className="btn btn-xs btn-primary">Read More</Link>
+                    <Link onClick={()=> window.scrollTo(0,0)} to={item.link} className="btn btn-xs btn-primary">Read More</Link>
                 </div>
                 </article>
             </div>
