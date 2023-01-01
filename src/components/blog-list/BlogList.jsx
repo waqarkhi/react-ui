@@ -1,5 +1,6 @@
 import './blog.css'
 import Title from '../base/Title'
+import { Link } from 'react-router-dom'
 
 const BlogList = ({title,blogs}) => {
   return (
@@ -16,7 +17,7 @@ const BlogList = ({title,blogs}) => {
                         <a className="text-dark" href={item.link}>{item.title}</a>
                     </h4>
                     <p className="cars-text">{item.detail}</p>
-                    <a href={item.link} className="btn btn-xs btn-primary">Read More</a>
+                    <Link to={item.link} className="btn btn-xs btn-primary">Read More</Link>
                 </div>
                 </article>
             </div>

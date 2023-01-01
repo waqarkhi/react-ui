@@ -1,5 +1,6 @@
 import { Outlet, Link } from "react-router-dom";
 import './header.css'
+import menu from '../../data/menu.json'
 const Header = () => {
   return (
     <header className='navigation fixed-top'>
@@ -12,24 +13,11 @@ const Header = () => {
 
         <div className="collapse navbar-collapse text-center" id="navigation">
           <ul className="navbar-nav ml-auto" data-aos="fade-down" data-aos-delay="1000">
-            <li className="nav-item active">
-              <Link className="nav-link" to="/">Home</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/about">about</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/blog">Blog</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/portfolio">Portfolio</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/contact">Contact</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/page-not-found">Error</Link>
-            </li>
+            {menu.map((item) => (
+              <li className="nav-item" key={item.id}>
+                <Link className="nav-link" to={item.to}>{item.text}</Link>
+              </li>
+            ))}
           </ul>
         </div>
       </nav>

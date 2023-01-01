@@ -4,36 +4,36 @@
         "media":"/images/blog/post-3.jpg",
         "title":"Amazon increase income 1.5 Million",
         "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "/single"
+        "link": "/blog/1"
     },{
         "id": 2,
         "media":"/images/blog/post-4.jpg",
         "title":"Amazon increase income 1.5 Million",
         "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "/single"
+        "link": "/blog/2"
     },{
         "id": 3,
         "media":"/images/blog/post-5.jpg",
         "title":"Amazon increase income 1.5 Million",
         "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "/single"
+        "link": "/blog/3"
     },{
         "id": 4,
         "media":"/images/blog/post-3.jpg",
         "title":"Amazon increase income 1.5 Million",
         "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "/single"
+        "link": "/blog/4"
     },{
         "id": 5,
         "media":"/images/blog/post-5.jpg",
         "title":"Amazon increase income 1.5 Million",
         "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "/single"
+        "link": "/blog/5"
     },{
         "id": 6,
         "media":"/images/blog/post-2.jpg",
         "title":"Amazon increase income 1.5 Million",
         "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "/single"
+        "link": "/blog/6S"
     }
 ]
