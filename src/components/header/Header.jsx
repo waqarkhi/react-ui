@@ -3,6 +3,7 @@ import './header.css'
 import menu from '../../data/menu.json'
 import sign from '../../assets/images/about/signature.png'
 import { useState } from "react";
+import Nav from '../base/Nav'
 
 const Header = () => {
   const [open, setOpen] = useState(false);
@@ -19,13 +20,7 @@ const Header = () => {
         </button>
 
         <div className={`collapse navbar-collapse text-center ${(open)?"show":""}`} id="navigation">
-          <ul className="navbar-nav ml-auto" data-aos="fade-down" data-aos-delay="1000">
-            {menu.map((item) => (
-              <li className="nav-item" key={item.id}>
-                <Link className="nav-link" onClick={()=> setOpen(!open)} to={item.to}>{item.text}</Link>
-              </li>
-            ))}
-          </ul>
+          <Nav menu={menu} open={setOpen} />
         </div>
       </nav>
       <Outlet />
